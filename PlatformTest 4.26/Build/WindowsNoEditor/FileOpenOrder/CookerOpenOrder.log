@@ -1,0 +1,340 @@
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../Engine/Content/BasicShapes/Cube.uasset" 4
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Environment/block.uasset" 5
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Environment/block_Mat.uasset" 6
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Environment/Blocks.uasset" 7
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Blocks.uasset" 8
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 9
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 10
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 11
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Textures/T_Male_N.uasset" 12
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 13
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 14
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 15
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 16
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 17
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 18
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 19
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 20
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 21
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 23
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 24
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 25
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 26
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 27
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 28
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/WeaponStats.uasset" 29
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 30
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 31
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/mat_water.uasset" 32
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 33
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 34
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 35
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 36
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 37
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 38
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 39
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 40
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 41
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 42
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 43
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 44
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 45
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 46
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 47
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 48
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 49
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 50
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 51
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 52
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 53
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 54
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 55
+"../../Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 56
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 57
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 58
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 59
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 60
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 61
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 62
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 63
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 64
+"../../Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 65
+"../../Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 66
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 67
+"../../Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 68
+"../../Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 69
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 70
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 71
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 72
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 73
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 74
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 75
+"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 76
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 77
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 78
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 79
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 80
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 81
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 82
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 83
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 84
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 85
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 86
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 87
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 88
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 89
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 90
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 91
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 92
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 93
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/PaintSplat.uasset" 94
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/SplashSystem.uasset" 95
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/Waterdrop.uasset" 96
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/mat_spraypaint.uasset" 97
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/spraysplat.uasset" 98
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/spraysplat_Mat.uasset" 99
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/SpraysplatDecal.uasset" 100
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/Spraypaint.uasset" 101
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/mat_paintball.uasset" 102
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/splat.uasset" 103
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/splat_Mat.uasset" 104
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/SplatDecal.uasset" 105
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/SplatDecal/PaintSplatSystem.uasset" 106
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/Paintball.uasset" 107
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Weapons/WeaponData.uasset" 108
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 109
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 110
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPersonRun.uasset" 111
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 112
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 113
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 114
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 115
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 116
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 117
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/wep4.uasset" 118
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/wep3.uasset" 119
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/wep2.uasset" 120
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/wep1.uasset" 121
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/splatUI.uasset" 122
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/splatSelect2.uasset" 123
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/splatSelect1.uasset" 124
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/cursor.uasset" 125
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Interface/WeaponUI.uasset" 126
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Player/ThirdPersonCharacter.uasset" 127
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 128
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 129
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 130
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 131
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 132
+"../../../Engine/Content/BasicShapes/Cone.uasset" 133
+"../../../Engine/Content/BasicShapes/Plane.uasset" 134
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 135
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 136
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 137
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 138
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 139
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 140
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 141
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 142
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 143
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 144
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 145
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 146
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 147
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 148
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 149
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 150
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 151
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 152
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 153
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 154
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 155
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 156
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 157
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 158
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 159
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 160
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 161
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 162
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 163
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 164
+"../../../Engine/Content/EditorResources/S_Note.uasset" 165
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 166
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 167
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 168
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 169
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 170
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 171
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 172
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 173
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 174
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 175
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 177
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 179
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 180
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 181
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 182
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 183
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 184
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 185
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 186
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 187
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 188
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 189
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 190
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 191
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 192
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 193
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 194
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 195
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 196
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 197
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 199
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 200
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 201
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 202
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 203
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 204
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 205
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 206
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 207
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 208
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 209
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 210
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 211
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 213
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 214
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 215
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 216
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 217
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 218
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 219
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 220
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 221
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 222
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 223
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 224
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 225
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 226
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 227
+"../../../Engine/Content/EngineResources/Black.uasset" 228
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 229
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 230
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 231
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 232
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 233
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 234
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 235
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 236
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 237
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 239
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 240
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 241
+"../../../Engine/Content/EngineSounds/Master.uasset" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 243
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 244
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 245
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 246
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 247
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 248
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 249
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 250
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 265
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 266
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 267
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 268
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 269
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 270
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 271
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 272
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 273
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 274
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 275
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 276
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 277
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 278
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 279
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 280
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 281
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 282
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 283
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 284
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 285
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 286
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 288
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 289
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 290
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 291
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 292
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 293
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 294
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 295
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 296
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 297
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 298
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 299
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 300
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 301
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 302
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 303
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 304
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 306
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 307
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 308
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 309
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 310
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 311
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 312
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 313
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 314
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 315
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 316
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 317
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 318
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 319
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 320
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPerson/Meshes/RampMaterial.uasset" 321
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 322
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 323
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 324
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 325
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 326
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Geometry/Meshes/CubeMaterial.uasset" 327
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Geometry/Meshes/TemplateFloor.uasset" 328
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/Geometry/Meshes/1M_Cube.uasset" 329
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Environment/graffitiwall.uasset" 330
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 332
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 333
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Environment/graffitiwall_Mat.uasset" 334
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Environment/floor.uasset" 335
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/g016990k/Environment/floor_Mat.uasset" 336
+"../../../../../../Users/ricky/OneDrive - Staffordshire University/Junior Collab/PlatformTest/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 337
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 338
+"../../../Engine/Content/Maps/Entry.umap" 339
